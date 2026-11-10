@@ -1,3 +1,3 @@
 # git_training
-Playing around with git functionality
+Playing around with git functionality. And check!
 
